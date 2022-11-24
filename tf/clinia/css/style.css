@@ -28224,7 +28224,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	padding:60px 0;
 }
 .brand-carousel {
-	background: aliceblue;
+	background: transparent;
 	margin-top: 5%;
 }
 .owl-dots {
