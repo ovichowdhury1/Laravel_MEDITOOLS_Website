@@ -28151,6 +28151,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	padding: 1px 10px;
 	margin-left: 20px;
 }
+
 .expert_doctors_area .single_expert .experts_name {
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
@@ -28247,5 +28248,8 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	text-align: justify;
 }
 
-	  
-	
+.thumbnail-josip-title {
+	font-size: 15px;
+	font-weight: 500;
+	margin-bottom: 1px;
+  }   
