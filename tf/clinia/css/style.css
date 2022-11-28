@@ -4672,10 +4672,7 @@ a.thumbnail:hover {
 		-webkit-transform: translateY(100%);
 		transform: translateY(100%);
 	}
-	.thumbnail-josip:hover .thumbnail-desc {
-		-webkit-transform: translateY(-50px);
-		transform: translateY(-50px);
-	}
+	
 }
 
 .tablet .thumbnail-josip figcaption {
