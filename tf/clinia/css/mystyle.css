@@ -8,3 +8,8 @@
 .topBarContent ul{
     margin-top: 5px !important;
 }
+
+.thumbnail1:hover .thumbnail1-desc {
+    -webkit-transform: translateY(0px) !important;
+    transform: translateY(0px) !important;
+}
