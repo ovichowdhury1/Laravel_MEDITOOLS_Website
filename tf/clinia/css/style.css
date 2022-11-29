@@ -1,4 +1,73 @@
 ﻿@charset "UTF-8";
+/**
+ * [Table of contents]
+ *   1 Base
+ *     1.1 Reset Styles
+ *   2 Components
+ *     2.1 Gri custom
+ *     2.2 Dividers
+ *     2.3 Typography
+ *     2.4 Custom Buttons Styles
+ *     2.5 Sections
+ *     2.6 Custom Thumbnails
+ *     2.7 Custom scaffolding
+ *     2.8 Text styling
+ *     2.9 Navs Custom
+ *     2.10 Panels custom
+ *     2.11 Icons
+ *     2.12 Linear Progress Bars
+ *     2.13 Media Objects custom
+ *     2.14 Breadcrumb custom
+ *     2.15 Input group custom
+ *     2.16 Custom Alert
+ *     2.17 Element groups
+ *     2.18 Box Comment
+ *     2.19 Quotes
+ *     2.20 Custom Pagination
+ *     2.21 Pager pagination
+ *     2.22 Badge
+ *     2.23 Posts
+ *     2.24 Custom form
+ *     2.25 Offsets
+ *     2.26 Responsive unit
+ *     2.27 Box icons
+ *     2.28 Pricing and Plans
+ *     2.29 Custom Tables
+ *     2.30 Stacktable
+ *     2.31 Product
+ *     2.32 Badges custom
+ *     2.33 Box member
+ *     2.34 Contexts
+ *     2.35 Sheldue
+ *     2.36 Reset Services
+ *   3 Plugins
+ *     3.1 RD Navbar
+ *     3.2 RD Search
+ *     3.3 RD Video
+ *     3.4 Material Parallax
+ *     3.5 Swiper
+ *     3.6 Animate
+ *     3.7 Scroll to
+ *     3.8 Preloader
+ *     3.9 Owl Carousel
+ *     3.10 Isotope
+ *     3.11 Responsive Tabs
+ *     3.12 Google Map
+ *     3.13 Select 2
+ *     3.14 Countdown
+ *     3.15 RD Audio
+ *     3.16 RD Video Player
+ *     3.17 RD Calendar
+ *     3.18 RD Facebook
+ *     3.19 Soundcloud
+ *     3.20 ToTop
+ *     3.21 RD Material Tabs
+ *     3.22 Google reCaptcha
+ *     3.23 Fullcalendar
+ *     3.24 Lightgallery
+ */
+/** @group Base */
+/** @section Reset Styles*/
 a:focus,
 button:focus {
 	outline: none !important;
@@ -4602,6 +4671,10 @@ a.thumbnail:hover {
 		padding: 0;
 		-webkit-transform: translateY(100%);
 		transform: translateY(100%);
+	}
+	.thumbnail-josip:hover .thumbnail-desc {
+		-webkit-transform: translateY(-50px);
+		transform: translateY(-50px);
 	}
 	
 }

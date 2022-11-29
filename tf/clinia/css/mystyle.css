@@ -1,0 +1,10 @@
+.topBarContent{
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+.topBarContent h1{
+    font-size: 30px;
+}
+.topBarContent ul{
+    margin-top: 5px !important;
+}
