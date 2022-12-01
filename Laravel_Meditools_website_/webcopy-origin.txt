@@ -1,0 +1,684 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://ld-wt73.template-help.com/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\cdn-cgi\apps\head\3ts2ksMwXvKRuG480KNifJ2_JNM.js
+Content Type: application/javascript
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\index.htm
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/404.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\404.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/about.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\about.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/blog-classic.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\blog-classic.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/blog-grid.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\blog-grid.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/blog-masonry.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\blog-masonry.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/blog-modern.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\blog-modern.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/buttons.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\buttons.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/careers.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\careers.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/cobbles-gallery.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\cobbles-gallery.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/coming-soon.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\coming-soon.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/contacts.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\contacts.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/css/bootstrap.css
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/css/fonts.css
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\css\fonts.css
+Content Type: text/css
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/css/style.css
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\css\style.css
+Content Type: text/css
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/departments.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\departments.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/faq.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\faq.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/Flaticon.eot
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/Flaticon.eot?
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/Flaticon.svg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/Flaticon.ttf
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\Flaticon.ttf
+Content Type: application/octet-stream
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/Flaticon.woff
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/lg.eot?
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/lg.eot?n1z373
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/lg.svg?n1z373
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/lg.ttf?n1z373
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\lg.ttf
+Content Type: application/octet-stream
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/lg.woff?n1z373
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/materialdesignicons-webfont.eot?v=1.4.57
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/materialdesignicons-webfont.svg?v=1.4.57
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\materialdesignicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/materialdesignicons-webfont.ttf?v=1.4.57
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\materialdesignicons-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/materialdesignicons-webfont.woff2?v=1.4.57
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/fonts/materialdesignicons-webfont.woff?v=1.4.57
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\fonts\materialdesignicons-webfont.woff
+Content Type: font/woff
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/forms.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\forms.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/grid-gallery-no-padding.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\grid-gallery-no-padding.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/grid-gallery.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\grid-gallery.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/backgrounds/background-02-676x545.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\backgrounds\background-02-676x545.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-01-370x250.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-01-370x250.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-02-370x250.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-02-370x250.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-03-370x250.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-03-370x250.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-04-570x370.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-04-570x370.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-05-570x370.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-05-570x370.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-06-570x370.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-06-570x370.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-07-570x370.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-07-570x370.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-08-770x480.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-08-770x480.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-09-770x480.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-09-770x480.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-10-770x480.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-10-770x480.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-11-770x480.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-11-770x480.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-12-770x480.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-12-770x480.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-13-370x250.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-13-370x250.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-14-370x250.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-14-370x250.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/post-15-370x250.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\post-15-370x250.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/sidebar-banner-01-336x500.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\sidebar-banner-01-336x500.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/sidebar-img-01-165x165.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\sidebar-img-01-165x165.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/sidebar-img-02-165x165.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\sidebar-img-02-165x165.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/sidebar-img-03-165x165.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\sidebar-img-03-165x165.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/sidebar-img-04-165x165.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\sidebar-img-04-165x165.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/sidebar-img-05-165x165.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\sidebar-img-05-165x165.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/blog/sidebar-img-06-165x165.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\blog\sidebar-img-06-165x165.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/certifications/certificate-01-100x138.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\certifications\certificate-01-100x138.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/certifications/certificate-01-700x970.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\certifications\certificate-01-700x970.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/favicon.ico
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-01-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-01-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-02-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-02-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-03-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-03-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-04-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-04-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-05-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-05-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-06-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-06-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-07-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-07-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-08-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-08-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-09-370x240.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-09-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-10-370x510.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-10-370x510.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-11-370x510.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-11-370x510.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-12-370x510.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-12-370x510.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-13-384x500.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-13-384x500.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-14-384x500.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-14-384x500.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-15-384x500.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-15-384x500.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-16-384x500.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-16-384x500.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/gallery-17-384x500.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\gallery-17-384x500.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-01_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-01_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-02_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-02_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-03_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-03_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-04_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-04_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-05_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-05_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-06_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-06_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-07_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-07_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-08_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-08_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-09_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-09_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/gallery/originals/gallery-17_original.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\gallery\originals\gallery-17_original.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-bed-94x94.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-bed-94x94.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-brain-80x80.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-brain-80x80.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-emergency.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-emergency.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-heartbeat-80x80.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-heartbeat-80x80.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-hospital-94x94.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-hospital-94x94.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-kidneys-80x80.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-kidneys-80x80.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-lungs-80x80.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-lungs-80x80.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-medic-53x94.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-medic-53x94.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-stethoscope-80x80.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-stethoscope-80x80.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/icons/icon-tooth-80x80.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\icons\icon-tooth-80x80.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/loading.gif
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\loading.gif
+Content Type: image/gif
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/logo-default-404x92.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\logo-default-404x92.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/logo-inverse-404x92.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\logo-inverse-404x92.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/departments-01-960-611.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\departments-01-960-611.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/departments-02-960-611.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\departments-02-960-611.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/departments-03-960-611.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\departments-03-960-611.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/faq-01-426x582.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\faq-01-426x582.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-01-270x270.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-01-270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-02-270x270.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-02-270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-03-270x270.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-03-270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-04-270x270.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-04-270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-05-384x410.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-05-384x410.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-06-384x410.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-06-384x410.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-07-384x410.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-07-384x410.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-08-384x410.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-08-384x410.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/our-team-09-384x410.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\our-team-09-384x410.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/pages-careers-570x320.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\pages-careers-570x320.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/services-01-870x440.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\services-01-870x440.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/services-02-870x440.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\services-02-870x440.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/services-03-870x440.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\services-03-870x440.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/services-04-870x440.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\services-04-870x440.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/services-05-870x440.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\services-05-870x440.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/services-06-870x440.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\services-06-870x440.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/typography-01-770x420.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\typography-01-770x420.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/pages/typography-02-340x220.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\pages\typography-02-340x220.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/preloader.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\preloader.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-01-60x60.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-01-60x60.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-02-60x60.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-02-60x60.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-03-329x551.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-03-329x551.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-amanda-wells-90x90.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-amanda-wells-90x90.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-betty-wade-60x60.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-betty-wade-60x60.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-bryan-green-60x60.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-bryan-green-60x60.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-carolyn-50x50.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-carolyn-50x50.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-cristina-50x50.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-cristina-50x50.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-eric-110x110.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-eric-110x110.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-eric-50x50.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-eric-50x50.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-jeffrey-welch-90x90.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-jeffrey-welch-90x90.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-joan-anderson-60x60.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-joan-anderson-60x60.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-johnny-fowler-110x110.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-johnny-fowler-110x110.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-scott-riley-110x110.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-scott-riley-110x110.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/user-scott-riley-320x320.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\user-scott-riley-320x320.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/users/users-amanda-wells-170x170.jpg
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\users\users-amanda-wells-170x170.jpg
+Content Type: image/jpeg
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/video-play.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\video-play.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/vimeo-play.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\vimeo-play.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/images/youtube-play.png
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\images\youtube-play.png
+Content Type: image/png
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/index.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\index.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/js/core.min.js
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\js\core.min.js
+Content Type: application/javascript
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/js/script.js
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\js\script.js
+Content Type: application/javascript
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/make-an-appointment.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\make-an-appointment.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/masonry-gallery.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\masonry-gallery.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/our-team.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\our-team.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/pricing.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\pricing.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/privacy-policy.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\privacy-policy.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/search-results.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\search-results.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/services.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\services.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/single-post.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\single-post.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/team-member.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\team-member.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/timetable.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\timetable.html
+Content Type: text/html
+
+Uri: https://ld-wt73.template-help.com/tf/clinia/typography.html
+File Name: C:\Users\user\Downloads\ld-wt73.template-help.com\tf\clinia\typography.html
+Content Type: text/html
+
